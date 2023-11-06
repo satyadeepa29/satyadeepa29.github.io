@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Proficient software engineer skilled in PostgreSQL, AWS Athena, Python, learning Scala and Apache Spark, while maintaining a strong passion for fitness, mindful eating, and exceptional communication skills.
