@@ -1,3 +1,5 @@
+##Understanding Spark's Basic Architecture
+
 Welcome, fellow developers! In this blog post, we're going to delve into the fundamental architecture of Apache Spark, one of the most powerful and versatile big data processing frameworks. Whether you're new to Spark or looking to reinforce your knowledge, understanding its architecture is essential to harness its full potential.
 
 What is Apache Spark?
